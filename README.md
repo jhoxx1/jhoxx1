@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jhoxx1;
+- 👀 I’m interested in Java, C# and C++;
+- 🌱 I’m currently learning junior developper full stack;
+- 😄 Pronouns: he;
